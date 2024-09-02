@@ -1,0 +1,39 @@
+.player-name {
+    margin-left: 200px;
+}
+
+.player-breed {
+    margin-left: 200px;
+}
+
+.player-status {
+    margin-left: 200px;
+}
+
+nav {
+    padding-bottom: 20px;
+    margin-left: 300px;
+    font-size: 18px;
+}
+
+h4 {
+    font-size: 25px;
+    color: darkslateblue;
+    font-weight: bold;
+}
+
+#delete {
+    color: red;
+    background-color: bisque;
+}
+
+#home {
+    color: mediumblue;
+    background-color: lightblue;
+    margin-right: 15px;
+    margin-left: 200px;
+}
+
+img {
+    border-radius: 8px;
+}
